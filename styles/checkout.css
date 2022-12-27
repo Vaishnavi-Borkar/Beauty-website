@@ -1,0 +1,22 @@
+#address {
+    width: 30%;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#add-address {
+    margin: auto;
+    text-align: center;
+
+}
+
+input {
+    padding: 3px 50px 3px 5px;
+}
+
+#body {
+    background: url("https://c4.wallpaperflare.com/wallpaper/638/601/313/lipstick-shadows-black-background-brush-cosmetics-hd-wallpaper-preview.jpg")
+}

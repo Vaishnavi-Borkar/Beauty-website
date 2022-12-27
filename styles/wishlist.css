@@ -1,0 +1,13 @@
+#wishlist {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+}
+
+#wishlist>div {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
