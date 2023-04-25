@@ -50,6 +50,7 @@ function append(data) {
         //     wishlist(el)
         // };
 
+        
 
         div.append(img, brand, name, cate, price, rating, btn);
         box.append(div)
