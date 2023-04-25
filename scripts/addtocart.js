@@ -27,7 +27,6 @@ function append(data) {
         total = total + el.price * 79;
         document.querySelector("#cart_total").innerText = total;
 
-
         let rating = document.createElement("p")
         let rate = Math.floor(Math.random() * 5) + 1;
         let star = ""
