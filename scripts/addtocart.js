@@ -1,7 +1,6 @@
 import navbar from "../components/navbar.js";
 document.querySelector("#navbar").innerHTML = navbar();
 
-
 let data = JSON.parse(localStorage.getItem("cartData")) || [];
 function append(data) {
     let box = document.querySelector("#addtocart");
